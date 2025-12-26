@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 <p align="center">
-  <img src="logo.png" width="120" alt="VoidCasket Logo">
+  <img src="logo.jpg" width="120" alt="VoidCasket Logo">
 </p>
 
 ---
