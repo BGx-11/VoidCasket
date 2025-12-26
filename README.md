@@ -164,6 +164,6 @@ Licensed under the **MIT License**.
 
 <p align="center">
 <strong>Developed by BGx (Devansh Agarwal)</strong><br>
-<em>Cybersecurity Student & Developer</em>
+<em>Cybersecurity Enthusiast & Developer</em>
 </p>
 
